@@ -37,7 +37,7 @@ Here are some of the projects I've developed:
 ## 📸 My Photo
 
 <p align="center">
-    <img src="https://via.placeholder.com/150" alt="My Photo" width="150" />
+    <img src="https://via.placeholder.com/150](https://i.postimg.cc/qqhvB20v/z-1.png" alt="My Photo" width="150" />
 </p>
 
 ---
