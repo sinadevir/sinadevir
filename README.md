@@ -1,21 +1,15 @@
 <div align="center">
 
-<!-- إضافة خلفية متحركة باستخدام Particles.js -->
 <div id="particles-js"></div>
 
-<!-- رابط مكتبة Animate.css للرسوم المتحركة -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
-<!-- رابط مكتبة AOS للرسوم المتحركة عند التمرير -->
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-<!-- رابط مكتبة Font Awesome للأيقونات -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-<!-- العنوان الرئيسي مع رسوم متحركة -->
 <h1 class="animate__animated animate__bounceInDown">Hi, I'm Sina 👨‍💻</h1>
 
-<!-- الوصف مع رسوم متحركة -->
 <p class="animate__animated animate__fadeIn animate__delay-1s">Web & Bot Developer | Open Source Enthusiast</p>
 
 ---
@@ -92,7 +86,6 @@ A brief description of Project 3. Highlight key features and technologies used.
 
 </div>
 
-<!-- إضافة مكتبة Particles.js -->
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 <script>
   particlesJS.load('particles-js', 'particles.json', function() {
@@ -100,7 +93,6 @@ A brief description of Project 3. Highlight key features and technologies used.
   });
 </script>
 
-<!-- إضافة مكتبة AOS -->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>
   AOS.init();
