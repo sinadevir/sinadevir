@@ -1,99 +1,58 @@
 <div align="center">
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi, I'm Sina
 
-<div id="particles-js"></div>
+### Web & Bot Developer | Open Source Enthusiast
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinadevir)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sinadevir)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sina@example.com)
 
-<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
-<h1 class="animate__animated animate__bounceInDown">Hi, I'm Sina 👨‍💻</h1>
-
-<p class="animate__animated animate__fadeIn animate__delay-1s">Web & Bot Developer | Open Source Enthusiast</p>
+</div>
 
 ---
 
-## 🛠️ **Skills & Tools**
+## 🛠️ Skills & Tools
 
-### **Languages & Frameworks**
-<p align="center" data-aos="fade-up">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</p>
+### 💻 Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### **Tools & Platforms**
-<p align="center" data-aos="fade-up" data-aos-delay="100">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
-</p>
+### 🛠️ Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
-## 📂 **Featured Projects**
+## 📌 Featured Projects
 
-<div data-aos="fade-up" data-aos-delay="200">
-### [Project 1](https://github.com/username/project1)
-A brief description of Project 1. Highlight key features and technologies used.
-</div>
+| Project | Description |
+|---------|-------------|
+| **[Project 1](https://github.com/username/project1)** | A brief description of Project 1. Highlight key features and technologies used. |
+| **[Project 2](https://github.com/username/project2)** | A brief description of Project 2. Highlight key features and technologies used. |
+| **[Project 3](https://github.com/username/project3)** | A brief description of Project 3. Highlight key features and technologies used. |
 
-<div data-aos="fade-up" data-aos-delay="300">
-### [Project 2](https://github.com/username/project2)
-A brief description of Project 2. Highlight key features and technologies used.
-</div>
+---
 
-<div data-aos="fade-up" data-aos-delay="400">
-### [Project 3](https://github.com/username/project3)
-A brief description of Project 3. Highlight key features and technologies used.
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinadevir&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinadevir&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center" data-aos="fade-up" data-aos-delay="500">
-    <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📞 **Connect with Me**
-
-<p align="center" data-aos="fade-up" data-aos-delay="600">
-    <a href="https://github.com/username">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/username">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your-email@example.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-</p>
-
----
-
+<div align="center">
+  <i>⚡ Let's build something amazing together.</i>
 </div>
-
-<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-<script>
-  particlesJS.load('particles-js', 'particles.json', function() {
-    console.log('callback - particles.js config loaded');
-  });
-</script>
-
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script>
-  AOS.init();
-</script>
