@@ -1,119 +1,103 @@
 <div align="center">
 
-<h1>ZeeX</h1>
+# ZeeX
 
-<p>
-Software Engineer • Systems Developer • Open Source Enthusiast
-</p>
+```txt
+SYSTEMS • SOFTWARE • AUTOMATION • WEB
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=C%2B%2B+Developer;Python+Engineer;Full-Stack+Developer;Building+Reliable+Software;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+software.;Designing+systems.;Solving+problems.;Shipping+products." />
 
 </div>
 
+<br>
+
+## Overview
+
+I build software with a focus on performance, reliability, maintainability and long-term scalability.
+
+My interests span low-level development, backend systems, automation, modern web technologies and developer tooling.
+
 ---
 
-## Profile
-
-I build software with a focus on performance, maintainability, and scalability.
-
-My interests include systems programming, backend architecture, automation, web applications, and modern development workflows.
-
----
-
-## Technology Arsenal
+## Expertise
 
 <table>
 <tr>
-<td><strong>Languages</strong></td>
-<td>C++, Python, JavaScript, TypeScript, Lua, SQL</td>
+<td width="180">Languages</td>
+<td>C++ • Python • JavaScript • TypeScript • Lua • SQL</td>
 </tr>
 
 <tr>
-<td><strong>Frontend</strong></td>
-<td>React, HTML, CSS</td>
+<td>Frontend</td>
+<td>React • Modern Web Development</td>
 </tr>
 
 <tr>
-<td><strong>Backend</strong></td>
-<td>Node.js, Express</td>
+<td>Backend</td>
+<td>Node.js • APIs • Automation Services</td>
 </tr>
 
 <tr>
-<td><strong>Databases</strong></td>
+<td>Data</td>
 <td>MySQL</td>
 </tr>
 
 <tr>
-<td><strong>Tools</strong></td>
-<td>Git, GitHub, Heroku</td>
+<td>Infrastructure</td>
+<td>Git • GitHub • Heroku</td>
 </tr>
 </table>
 
 ---
 
-## Current Focus
+## Engineering Principles
 
-```text
-Designing reliable software
-Building useful products
-Improving performance
-Learning advanced technologies
-Contributing to open source
+```txt
+01. Performance First
+02. Clean Architecture
+03. Simplicity Over Complexity
+04. Maintainable Code
+05. Continuous Improvement
 ```
 
 ---
 
-## Featured Projects
+## Current Status
 
-### Project Name
+```txt
+NAME          ZeeX
+ROLE          Software Engineer
 
-Short description of what the project does.
+FOCUS
+├─ Systems Development
+├─ Backend Engineering
+├─ Automation
+├─ Modern Web Applications
+└─ Open Source
 
-Tech:
-`C++` `Python`
-
----
-
-### Project Name
-
-Short description of what the project does.
-
-Tech:
-`React` `Node.js` `MySQL`
+STATUS        Active
+```
 
 ---
 
-### Project Name
-
-Short description of what the project does.
-
-Tech:
-`TypeScript` `React`
-
----
-
-## Statistics
+## Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZeeX&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZeeX&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeX&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## Contribution Activity
+## Repository Showcase
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeX&theme=transparent&hide_border=true" />
-</p>
+Projects are selected and displayed here based on quality, technical depth and impact.
 
----
-
-## Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ZeeX&theme=algolia&no-frame=true&column=4" />
-</p>
+Coming soon.
 
 ---
 
@@ -124,33 +108,13 @@ $ whoami
 
 ZeeX
 
-$ stack
+$ philosophy
 
-C++
-Python
-TypeScript
-React
-Node.js
-Lua
-MySQL
+Build useful things.
+Write clean code.
+Never stop improving.
 
-$ mission
-
-Build software that matters.
+$ exit
 ```
 
 ---
-
-## Classified
-
-<details>
-<summary>Access</summary>
-
-```text
-STATUS      : ONLINE
-MODE        : DEVELOPMENT
-LOCATION    : UNKNOWN
-OBJECTIVE   : BUILD. LEARN. IMPROVE.
-```
-
-</details>
